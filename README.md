@@ -1,5 +1,15 @@
 ## Hi there 👋
+
+- 🔭 I’m currently working on expanding my knowledge and skills.
+- 🌱 I’m currently learning PaddlePaddle.
+- 🤔 I’m looking for someone to learn with.
+- 💬 Ask me about how to get a good night's sleep.
+- 📫 How to reach me: limpid_chen@foxmail.com
+- 😄 Pronouns: Positive, Humorous, Hardworking.
+- ⚡ Fun fact: Could've relied on my looks, but chose to work hard instead.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=straigrand)
+
+
 <!--
 **straigrand/straigrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
