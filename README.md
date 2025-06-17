@@ -7,7 +7,7 @@
 - 📫 How to reach me: limpid_chen@foxmail.com
 - 😄 Pronouns: Positive, Humorous, Hardworking.
 - ⚡ Fun fact: Could've relied on my looks, but chose to work hard instead.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=straigrand&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=straigrand&show_icons=true&theme=cobalt)
 
 
 <!--
