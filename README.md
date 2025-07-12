@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on expanding my knowledge and skills.
-- 🌱 I’m currently learning PaddlePaddle.
+- 🌱 I’m currently learning LLM.
 - 🤔 I’m looking for someone to learn with.
 - 💬 Ask me about how to get a good night's sleep.
 - 📫 How to reach me: limpid_chen@foxmail.com
